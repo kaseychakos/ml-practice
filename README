@@ -1,0 +1,11 @@
+### Windows GPU Environment Setup
+- Install wsl2 
+- Install NVIDIA driver in Windows
+- Run wsl -d Ubuntu
+- Install Miniconda
+- Make sure to have the right python version as per tensorflow documentation. 
+- Create a conda env inside of WSL2
+- Install the matching Tensorflow and CUDA versions
+- Set env variables
+- Launch code from WSL (code .)
+- Test environment and make sure GPU is visible
