@@ -1,3 +1,7 @@
 /output
 dockerfile
 .env
+rnn.ipynb
+/pickle
+*.h5
+__pycache__
