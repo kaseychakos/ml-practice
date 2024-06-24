@@ -1,7 +1,7 @@
-/output
+*/output
 dockerfile
 .env
-/pickle
+*/pickle
 *.h5
 __pycache__
 gan.ipynb
